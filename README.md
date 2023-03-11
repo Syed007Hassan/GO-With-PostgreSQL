@@ -14,31 +14,40 @@ router.HandleFunc("/api/deletestock/{id}", middleware.DeleteStock).Methods("DELE
   
   <img src="https://user-images.githubusercontent.com/104893311/224471343-f439402f-7006-4b24-bc50-3c4e8379414d.png">
 
-</p>  
+</p>
+
+
 
 <p align="centre" >
   
   <img src="https://user-images.githubusercontent.com/104893311/224471468-e23ebf82-fc56-4fc7-9393-3ece766d50dc.png">
 
-</p>  
+</p>
+
+
 
 <p align="centre" >
   
   <img src="https://user-images.githubusercontent.com/104893311/224471599-48fd0da1-b80c-4542-9462-00376acf83e9.png">
 
-</p> 
+</p>
+
+
 
 <p align="centre" >
   
   <img src="https://user-images.githubusercontent.com/104893311/224471753-e72039d4-fce5-4a45-815f-d356f6cee781.png">
 
-</p> 
+</p>
+
+
 
 <p align="centre" >
   
   <img src="https://user-images.githubusercontent.com/104893311/224471807-43c9cbfd-87cc-47a7-b86d-d7a54852a3aa.png">
 
-</p> 
+</p>
+
 
 
 * To configure DB connection use:
